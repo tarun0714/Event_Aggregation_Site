@@ -2,7 +2,7 @@
 
 A web-based platform for streamlined event management at educational institutions. It enables admins, staff, and students to organize, manage, and register for events, all from a single portal.
 
-![Frontend Screenshot](images/frontend-screenshot.png)
+![Frontend Screenshot](images/frontend-screenshot.jpg)
 
 ## ✨ Features
 
